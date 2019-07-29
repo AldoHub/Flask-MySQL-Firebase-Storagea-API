@@ -28,14 +28,7 @@ CORS(app)
 
 #firebase config
 config = {
-    "apiKey": "AIzaSyBnmm2wqlKZaVsYLew-zrFj39-VF8nF5W0",
-    "authDomain": "flask-posts-tut-5e30a.firebaseapp.com",
-    "databaseURL": "https://flask-posts-tut-5e30a.firebaseio.com",
-    "projectId": "flask-posts-tut-5e30a",
-    "storageBucket": "flask-posts-tut-5e30a.appspot.com",
-    "messagingSenderId": "44902937571",
-    "appId": "1:44902937571:web:28e526147382014c",
-    "serviceAccount": "./keyfile.json"
+ 
 }
 
 #init firebase app
